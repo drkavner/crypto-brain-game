@@ -1,4 +1,4 @@
-# Crypto Brain Game
+## Crypto Brain Game
 
 An HTML5 game about cryptocurrency and the blockchain.
 
@@ -37,7 +37,7 @@ docker run --rm -ti \
 
 ## Licensing
 
-Blockchain Battle is open source, under the GPL v3 license.
+Crypto Brain Game is open source, under the GPL v3 license.
 
 ## Copyright
 

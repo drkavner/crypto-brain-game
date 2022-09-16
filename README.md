@@ -1,8 +1,8 @@
-# Blockchain Battle
+# Crypto Brain Game
 
 An HTML5 game about cryptocurrency and the blockchain.
 
-Created by Play Curious, with support from Science Animation, France IOI, and the Blaise Pascal Foundation.
+Created by Dr Crypto Brain and Play Curious, with support from Science Animation, France IOI, and the Blaise Pascal Foundation.
 
 Developed using the [https://github.com/play-curious/booyah](Booyah game engine).
 

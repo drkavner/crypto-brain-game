@@ -311,8 +311,8 @@ const { app } = booyah.go({
   creditsTextSize: 24,
 
   menuButtonPosition: isOnDesktop
-    ? new PIXI.Point(960 - 40, 50)
-    : new PIXI.Point(960 - 50, 50),
+    ? new PIXI.Point(960 - 20, 50)
+    : new PIXI.Point(960 - 30, 50),
 
   graphics: {
     menu: "images/play-curious-icon.png",

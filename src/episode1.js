@@ -141,7 +141,6 @@ const videoAssets = [
   "Octor-1.0.mp4",
   "Octor-2.0.mp4",
   "Octor-3.0.mp4",
-  "game-by-play-curious.mp4",
 ];
 
 const fxAssets = [
@@ -150,7 +149,6 @@ const fxAssets = [
   "notif",
   "copy",
   "paste",
-  "game-by-play-curious",
   "points-1",
   "points-2",
 ];
@@ -310,15 +308,7 @@ const { app } = booyah.go({
   credits,
   creditsTextSize: 24,
 
-  menuButtonPosition: isOnDesktop
-    ? new PIXI.Point(960 - 10, 50)
-    : new PIXI.Point(960 - 20, 50),
-
-  graphics: {
-    menu: "images/play-curious-icon.png",
-    play: "images/button-play.png",
-    skip: "images/button-skip.png",
-  },
+ 
 
   extraLogos: [
     "images/logo-science-animation.png",
